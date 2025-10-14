@@ -16,6 +16,8 @@ import Testimonials from "./pages/home/Testimonial";
 import BlogList from "./pages/blog/Blog";
 import BlogDetail from "./pages/blog/BlogDetails";
 import ServiceSection from "./pages/home/ServiceSection";
+import WhatsAppIcon from "./pages/home/icon";
+
 
 const App = () => {
   return (
@@ -47,7 +49,7 @@ const App = () => {
           <Route path="/blog/:id" element={<BlogDetail />} />
           <Route path="/services" element={<ServicesPage />} />
         </Routes>
-
+<WhatsAppIcon/>
         <Footer />
       </div>
     </Router>
