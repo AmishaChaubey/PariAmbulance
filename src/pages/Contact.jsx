@@ -41,8 +41,8 @@ export default function ContactPage() {
     {
       icon: MapPin,
       title: 'Location',
-      detail: 'SFD 240,Galaxy Diamond Plaza,',
-      subdDetail: 'Sector 4,Greter Noida,UP 201009',
+      detail: 'SFD 240, Galaxy Diamond Plaza,',
+      subdDetail: 'Sec-4, Greater Noida,UP 201009',
       color: 'from-[#96080B] to-[#C8252C]'
     }
   ];
@@ -273,14 +273,16 @@ export default function ContactPage() {
           <div className={`bg-white rounded-2xl shadow-xl overflow-hidden transform transition-all duration-1000 ${isVisible ? 'translate-x-0 opacity-100' : 'translate-x-10 opacity-0'}`}>
             <div className="h-full w-full min-h-[400px] bg-gray-200 flex items-center justify-center">
               <div className="w-full h-full">
-                <iframe
-                  title="Medical Center Map"
-                  className="w-full h-full"
-                  src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d163944.04371609012!2d77.33969649000258!3d28.589913986991167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x390cee4b71461185%3A0xd1989111c49e52fa!2sC%201A%2C%20Haibatpur%2C%20Sector%204%2C%20Greater%20Noida%2C%20Uttar%20Pradesh%20201016!3m2!1d28.606316399999997!2d77.4320992!5e0!3m2!1sen!2sin!4v1760015752682!5m2!1sen!2sin" 
-                  allowFullScreen=""
-                  loading="lazy"
-                  referrerPolicy="no-referrer-when-downgrade"
-                ></iframe>
+                  <iframe
+        title="PR Deadbody And FreezerBox Location"
+        src="https://maps.google.com/maps?width=100%25&height=600&hl=en&q=Shop%20no.1%20near%20Neo%20Hospital%20Block-D%20Sector-50%20Noida%20Up-201303+(PR%20Deadbody%20And%20FreezerBox%20)&t=p&z=15&ie=UTF8&iwloc=B&output=embed"
+        width="100%"
+        height="100%"
+        style={{ border: 0 }}
+        allowFullScreen=""
+        loading="lazy"
+        className="w-full h-full"
+      ></iframe>
               </div>
             </div>
           </div>

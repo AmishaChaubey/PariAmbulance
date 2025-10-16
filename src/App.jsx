@@ -17,6 +17,7 @@ import BlogList from "./pages/blog/Blog";
 import BlogDetail from "./pages/blog/BlogDetails";
 import ServiceSection from "./pages/home/ServiceSection";
 import WhatsAppIcon from "./pages/home/icon";
+import Call from './components/Call'
 
 
 const App = () => {
@@ -49,6 +50,7 @@ const App = () => {
           <Route path="/blog/:id" element={<BlogDetail />} />
           <Route path="/services" element={<ServicesPage />} />
         </Routes>
+        <Call/>
 <WhatsAppIcon/>
         <Footer />
       </div>

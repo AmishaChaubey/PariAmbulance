@@ -32,7 +32,7 @@ const Footer = () => {
           {/* Company Info */}
           <div>
             <div className="flex flex-col items-start gap-3 mb-6">
-               <Link to="/"><img className='h-24 object-contain' src='/logo3.png' alt="MediCare Ambulance Logo" /></Link>
+               <Link to="/"><img className='h-24 object-contain' src='/logoo.png' alt="MediCare Ambulance Logo" /></Link>
             </div>
             <p className="text-gray-600 mb-6">
               Providing emergency medical services with compassion, speed, and professionalism. 

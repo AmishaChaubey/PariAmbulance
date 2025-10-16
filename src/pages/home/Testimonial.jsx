@@ -8,27 +8,27 @@ export default function Testimonials() {
   const testimonials = [
     {
       name: "RAJESH AMBULANCE DRIVER",
-      text: "Working with Pari Ambulance has been a rewarding experience. The team values patient care, teamwork, and professionalism. Our goal is to provide safe, prompt, and reliable service every time.",
+      text: "Working with PR Ambulance has been a rewarding experience. The team values patient care, teamwork, and professionalism. Our goal is to provide safe, prompt, and reliable service every time.",
     },
     {
       name: "GAURAV SINGH",
-      text: "Pari Ambulance handled my father's emergency transport efficiently. The staff was attentive, professional, and followed all necessary safety measures. Their service truly eased our stress during a critical time.",
+      text: "PR Ambulance handled my father's emergency transport efficiently. The staff was attentive, professional, and followed all necessary safety measures. Their service truly eased our stress during a critical time.",
     },
     {
       name: "ABBAS RAMPURAWALA",
-      text: "I am grateful to Pari Ambulance for their prompt intercity service. The drivers and medical team were courteous and professional. They ensured smooth and safe transport with excellent care throughout.",
+      text: "I am grateful to PR Ambulance for their prompt intercity service. The drivers and medical team were courteous and professional. They ensured smooth and safe transport with excellent care throughout.",
     },
     {
       name: "PRIYA SHARMA",
-      text: "During my mother's cardiac emergency, Pari Ambulance arrived quickly and handled everything professionally. Their skilled paramedics and swift response ensured she received timely care and support.",
+      text: "During my mother's cardiac emergency, PR Ambulance arrived quickly and handled everything professionally. Their skilled paramedics and swift response ensured she received timely care and support.",
     },
     {
       name: "DR. VIKRAM PATEL",
-      text: "Pari Ambulance stands out for its skilled medical team and advanced equipment. I recommend their services to anyone needing reliable and professional medical transport, ensuring patient safety always.",
+      text: "PR Ambulance stands out for its skilled medical team and advanced equipment. I recommend their services to anyone needing reliable and professional medical transport, ensuring patient safety always.",
     },
     {
       name: "ANJALI MEHTA",
-      text: "Pari Ambulance made my father's inter-city transfer smooth and stress-free. The team provided continuous updates and compassionate care, demonstrating professionalism and dedication at every step.",
+      text: "PR Ambulance made my father's inter-city transfer smooth and stress-free. The team provided continuous updates and compassionate care, demonstrating professionalism and dedication at every step.",
     },
   ];
 
