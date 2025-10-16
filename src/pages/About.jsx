@@ -81,7 +81,7 @@ export default function AboutPage() {
             </div>
 
             <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold mb-4 sm:mb-6 font-serif">
-              Saving Lives, One Call at a Time
+              Saving Lives, One Call 
             </h1>
             <p className="text-base sm:text-xl md:text-2xl text-white/90 max-w-3xl mx-auto mb-6 sm:mb-10">
               Providing rapid, professional emergency medical services when
